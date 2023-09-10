@@ -6,13 +6,15 @@ This is the webapp I created in my mean time.... It's just a simple task manager
 ## .Preview:
 
 ### .PC Preview:
-![task manager](https://github.com/patilAdesh/tickleronline/assets/98024397/f5a51d96-09cb-4caf-82c6-1e6fbe4823e3)
+
+![task manager](https://github.com/patilAdesh/TicklerOnline/assets/98024397/d3692ff2-b3cc-43b8-bd39-87a955bc9dad)
 
 ### .Android Preview:
-![preview-android](https://github.com/patilAdesh/tickleronline/assets/98024397/77512905-ac6c-4b95-82a6-c02227982076)
+
+![preview-android](https://github.com/patilAdesh/TicklerOnline/assets/98024397/a40e4e55-3a72-4363-a635-a5a003daa3cc)
 
 ### .IPad Preview:
-![Preview-ipad air](https://github.com/patilAdesh/tickleronline/assets/98024397/0b6fb875-ef87-4f7c-94cd-bf55d88e000d)
+![Preview-ipad air](https://github.com/patilAdesh/TicklerOnline/assets/98024397/fdaac853-e77a-4996-9521-325a8043b8f6)
 
 
 ## .Features:
