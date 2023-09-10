@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>TicklerOnline</title>
+</head>
+<body>
+  <div class="container">
+    <h1>Tickler-Online</h1>
+    <div class="input-container">
+      <div class="input-row">
+        <input type="text" id="taskInput" placeholder="Enter a new task">
+        <input type="date" id="dateInput" min="${getCurrentDate()}">
+        <select id="priorityInput">
+          <option value="low">Low</option>
+          <option value="medium">Medium</option>
+          <option value="high">High</option>
+        </select>
+        
+        <button id="addButton">Add Task</button>
+      </div>
+    </div>
+    <div class="task-list-container">
+      <ul id="taskList" class="scrollbar">
+      </ul>
+    </div>
+    <div class="button-container">
+      <button id="clearCompletedButton">Clear Completed</button>
+    </div>
+  </div>
+  <script src="Script.js"></script>
+</body>
+</html>
